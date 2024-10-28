@@ -1,6 +1,8 @@
-Przypadki testowe do wymagań biznesowych sklepu internetowego.
+Dokumenty w Module3 to: 
+- Przypadki testowe do wymagań biznesowych sklepu internetowego
+- Zgłosene defektu
 
-Dokument zawiera cztery przypadki testowe:
+Dokument "Przypadki testowe-zadanie" zawiera cztery przypadki testowe:
 - Wysłanie formularza kontaktowego bez wypełnionych pól,
 - Filtrowanie produktów po rozmiarze,
 - Edycja liczby produktów w koszyku,
