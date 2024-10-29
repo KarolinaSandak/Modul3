@@ -15,6 +15,6 @@ Celem powyższych testów jest weryfikacja prawidłowego działania tych funkcji
 przestrzeganie wymagań wynikających z założeń biznesowych.
 
 Środowisko testowe:
-Przeglądarka: Safari 17.4.1
-System operacyjny: Ventura 13.6.7
+Przeglądarka: Safari 17.4.1, 
+System operacyjny: Ventura 13.6.7, 
 Urządzenie: MacBook Pro
