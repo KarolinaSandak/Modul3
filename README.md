@@ -7,7 +7,7 @@ Dokument "Przypadki testowe-zadanie" zawiera cztery przypadki testowe:
 - Filtrowanie produktów po rozmiarze,
 - Edycja liczby produktów w koszyku,
 - Weryfikacja zgodności kodu pocztowego z miastem w adresie wysyłki
-
+- 
 Rodzaj testów: Testy Funkcjonalne
 
 Każdy z przypadków testowych odnosi się do specyficznych funkcji sklepu internetowego,które mają być zgodne z wymaganiami biznesowymi dostarczonymi przez Klienta.
@@ -17,4 +17,4 @@ przestrzeganie wymagań wynikających z założeń biznesowych.
 Środowisko testowe:
 Przeglądarka: Safari 17.4.1
 System operacyjny: Ventura 13.6.7
-Urządzenie MacBook Pro
+Urządzenie: MacBook Pro
